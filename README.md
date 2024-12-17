@@ -6,8 +6,6 @@ This repository contains the dataset and code for the research titled:
 ## Dataset Description
 The dataset includes MRI images of brain tumors, with four classes: glioma, meningioma, pituitary tumor, and no tumor. These images were used to train a model for tumor classification based on deep learning techniques.
 
-Dataset link: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset 
-
 ### Features:
 - **MRI Images:** Preprocessed MRI scans of the brain.
 - **Tumor Classes:** Four classes are identified in the dataset:
@@ -18,6 +16,7 @@ Dataset link: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-d
 
 ### Data Collection:
 The dataset contains MRI images from publicly available sources, each labeled according to the type of brain tumor. These images are resized and preprocessed to enhance the feature extraction process.
+Dataset link: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset 
 
 ## Usage
 Researchers can use this dataset for:
