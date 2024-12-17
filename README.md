@@ -30,7 +30,7 @@ Researchers can use this dataset for:
 - Visualization: Matplotlib, Seaborn.
 
 ## How to Access the Dataset
-The dataset is attached in this repository. You can download it directly using the **"Download"** button or clone the repository:
+The Code is attached in this repository. You can download it directly using the **"Download"** button or clone the repository:
 ```bash
 git clone https://github.com/hafsa-kibria/Brain_Tumor_Classification
 ```
