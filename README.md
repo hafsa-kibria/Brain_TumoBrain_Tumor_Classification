@@ -49,4 +49,4 @@ For any questions or feedback, please contact:
 
 ---
 
-Thank you for using the Compost-Dataset for your research!
+Thank you for using the Brain-Tumor-Classification-Code for your research!
