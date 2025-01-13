@@ -36,8 +36,13 @@ git clone https://github.com/hafsa-kibria/Brain_Tumor_Classification
 ```
 
 ## Citation
-If you use this dataset in your research, please cite our work as follows:
+If you use this dataset in your research, please cite the following paper:
 
+**DOI**: [10.1038/s41598-025-85874-7](https://doi.org/10.1038/s41598-025-85874-7)  
+
+### BibTeX Citation
+
+```bibtex
 @article{nahiduzzaman2025hybrid,
   title={A hybrid explainable model based on advanced machine learning and deep learning models for classifying brain tumors using MRI images},
   author={Nahiduzzaman, Md and Abdulrazak, Lway Faisal and Kibria, Hafsa Binte and Khandakar, Amith and Ayari, Mohamed Arselene and Ahamed, Md Faysal and Ahsan, Mominul and Haider, Julfikar and Moni, Mohammad Ali and Kowalski, Marcin},
@@ -46,7 +51,8 @@ If you use this dataset in your research, please cite our work as follows:
   number={1},
   pages={1649},
   year={2025},
-  publisher={Nature Publishing Group UK London}
+  publisher={Nature Publishing Group UK London},
+  doi={10.1038/s41598-025-85874-7}
 }
 
 ## License
