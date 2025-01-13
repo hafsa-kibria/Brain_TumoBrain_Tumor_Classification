@@ -40,7 +40,6 @@ If you use this dataset in your research, please cite the following paper:
 
 **DOI**: [10.1038/s41598-025-85874-7](https://doi.org/10.1038/s41598-025-85874-7)  
 
-
 ```bibtex
 @article{nahiduzzaman2025hybrid,
   title={A hybrid explainable model based on advanced machine learning and deep learning models for classifying brain tumors using MRI images},
@@ -53,15 +52,3 @@ If you use this dataset in your research, please cite the following paper:
   publisher={Nature Publishing Group UK London},
   doi={10.1038/s41598-025-85874-7}
 }
----
-
-## License
-This dataset is shared under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You are free to use, modify, and distribute this dataset, provided appropriate credit is given.
-
-## Contact
-For any questions or feedback, please contact:
-- **Hafsa Binte Kibria**: hafsabintekibria@gmail.com
-
-
-
-Thank you for using the Brain-Tumor-Classification-Code for your research!
